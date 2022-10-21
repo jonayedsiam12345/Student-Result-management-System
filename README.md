@@ -1,1 +1,1 @@
-# cse470
+# Student Result Management System
